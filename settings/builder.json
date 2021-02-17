@@ -1,0 +1,53 @@
+{
+  "title": "AttackDungeon",
+  "packageName": "org.cocos2d.demo",
+  "startScene": "74b22cb4-db06-40ed-8993-67d5c710269d",
+  "excludeScenes": [],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "webOrientation": "auto",
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "mainCompressionType": "default",
+  "mainIsRemote": false,
+  "optimizeHotUpdate": false,
+  "md5Cache": true,
+  "nativeMd5Cache": true,
+  "encryptJs": true,
+  "xxteaKey": "6732c5b0-e9c9-42",
+  "zipCompressJs": true,
+  "fb-instant-games": {},
+  "android": {
+    "REMOTE_SERVER_ROOT": "",
+    "packageName": "org.cocos2d.demo"
+  },
+  "ios": {
+    "REMOTE_SERVER_ROOT": "",
+    "packageName": "org.cocos2d.demo"
+  },
+  "mac": {
+    "REMOTE_SERVER_ROOT": "",
+    "height": 720,
+    "packageName": "org.cocos2d.demo",
+    "width": 1280
+  },
+  "win32": {
+    "REMOTE_SERVER_ROOT": "",
+    "height": 720,
+    "width": 1280
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "org.cocos2d.demo",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "appBundle": false
+}
